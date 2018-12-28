@@ -1,2 +1,3 @@
-# Thinking-Multi-Task-Learning
-Thinking how multi-task learning works in NLP and other fields.
+# Thinking about Multi-Task Learning
+
+Thinking about how multi-task learning works in NLP and other fields.
