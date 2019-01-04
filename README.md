@@ -20,7 +20,7 @@ The repository aims for thinking about the advantages of MTL in NLP. Why it work
     3. schematic diagram
     
     <div align=center>
-    <img src="./imgs/hard.png" height="30%" width="30%" />
+    <img src="./images/hard.png" height="30%" width="30%" />
    </div>
 2. Soft Parameter Sharing
     1. each task has its own model with its own parameters
@@ -28,19 +28,19 @@ The repository aims for thinking about the advantages of MTL in NLP. Why it work
     3. schematic diagram
     
     <div align=center>
-    <img src="./imgs/soft.png" height="60%" width="60%" />
+    <img src="./images/soft.png" height="60%" width="60%" />
    </div>
    
 ## Recent work on MTL for NLP
 Keep updating...
 1. **Sluice networks: Learning what to share between loosely related tasks.** *Ruder, S., Bingel, J., Augenstein, I., and Søgaard, A. .* AAAI 2019, [code](https://github.com/sebastianruder/sluice-networks)
     <div align=center>
-    <img src="./imgs/sluice.png" height="60%" width="60%" />
+    <img src="./images/sluice.png" height="60%" width="60%" />
    </div>
 
 2. **Multi-Task Learning for Machine Reading Comprehension.** *Xu Y, Liu X, Shen Y, et al.* arXiv preprint arXiv:1809.06963, 2018.
     <div align=center>
-    <img src="./imgs/mrc.png" height="60%" width="60%" />
+    <img src="./images/mrc.png" height="60%" width="60%" />
    </div>
 3. MS MARCO leaderboard: S-Net, V-Net... see [Analysis](https://github.com/IndexFziQ/MSMARCO-MRC-Analysis).
 
