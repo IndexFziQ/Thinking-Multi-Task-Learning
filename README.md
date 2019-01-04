@@ -20,7 +20,7 @@ The repository aims for thinking about the advantages of MTL in NLP. Why it work
     3. schematic diagram
     
     <div align=center>
-    <img src="./imgs/hard.png" height="30%" width="50%" />
+    <img src="./imgs/hard.png" height="30%" width="30%" />
    </div>
 2. Soft Parameter Sharing
     1. each task has its own model with its own parameters
@@ -28,5 +28,5 @@ The repository aims for thinking about the advantages of MTL in NLP. Why it work
     3. schematic diagram
     
     <div align=center>
-    <img src="./imgs/soft.png" height="60%" width="50%" />
+    <img src="./imgs/soft.png" height="60%" width="60%" />
    </div>
