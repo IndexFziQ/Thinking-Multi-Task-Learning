@@ -30,3 +30,29 @@ The repository aims for thinking about the advantages of MTL in NLP. Why it work
     <div align=center>
     <img src="./imgs/soft.png" height="60%" width="60%" />
    </div>
+   
+## Recent work on MTL for NLP
+Keep updating...
+1. **Sluice networks: Learning what to share between loosely related tasks.** *Ruder, S., Bingel, J., Augenstein, I., and Søgaard, A. .* AAAI 2019, [code](https://github.com/sebastianruder/sluice-networks)
+    <div align=center>
+    <img src="./imgs/sluice.png" height="60%" width="60%" />
+   </div>
+
+2. **Multi-Task Learning for Machine Reading Comprehension.** *Xu Y, Liu X, Shen Y, et al.* arXiv preprint arXiv:1809.06963, 2018.
+    <div align=center>
+    <img src="./imgs/mrc.png" height="60%" width="60%" />
+   </div>
+3. MS MARCO leaderboard: S-Net, V-Net... see [Analysis](https://github.com/IndexFziQ/MSMARCO-MRC-Analysis).
+
+
+## Discussion
+1. How to design suitable auxiliary tasks for the main task?
+2. Shared representation and task-specific representation are of equal importance？
+3. Noise from related tasks is helpful?
+
+## References
+1. Ruder S. An overview of multi-task learning in deep neural networks[J]. arXiv preprint arXiv:1706.05098, 2017.
+2. Xu Y, Liu X, Shen Y, et al. Multi-Task Learning for Machine Reading Comprehension[J]. arXiv preprint arXiv:1809.06963, 2018.
+3. Ruder, S., Bingel, J., Augenstein, I., and Søgaard, A. (2017). Sluice networks: Learning what to share between loosely related tasks. 
+4. Caruana R. Multitask learning[J]. Machine learning, 1997, 28(1): 41-75.
+5. Wikipedia: https://en.wikipedia.org/wiki/Multi-task_learning
